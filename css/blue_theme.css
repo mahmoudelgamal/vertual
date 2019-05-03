@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+.option-box .gear-cheak,
+.navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus, 
+ .navbar-inverse .navbar-nav>.active>a:hover,
+ .dropdown-menu>li>a:focus, 
+.dropdown-menu>li>a:hover,
+.carousel-indicators .active
+
+{
+	background-color:#1c8dcf;
+	
+}
+.option-box .color-option,
+.testmonial .carousel-indicators li.active 
+
+{border:4px solid #1c8dcf;
+}
+
+
+.dropdown-menu
+{
+	border-top:#1c8dcf solid 3px;
+	
+
+}
+
+.dropdown-menu .divider
+{background-color:#1c8dcf}
+
+.about span,
+.navbar-inverse .navbar-brand span,
+.testmonial span,
+.footer h3,
+.copyright span,
+.color-option h4,
+.small span
+{
+	color:#1c8dcf
+}
+
+
+
+
+
+
+
